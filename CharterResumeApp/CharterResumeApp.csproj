@@ -64,8 +64,8 @@
     <Compile Include="AppDelegate.cs" />
     <Compile Include="LoginViewController.cs" />
     <Compile Include="TableSource.cs" />
-    <BundleResource Include="Resources\plusbutton.png" />
     <Compile Include="User.cs" />
+    <BundleResource Include="Resources\charter.jpg" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Content Include="Entitlements.plist" />
@@ -126,6 +126,12 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon60.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\CharterLogo.imageset\charter.jpg">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\CharterLogo.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>

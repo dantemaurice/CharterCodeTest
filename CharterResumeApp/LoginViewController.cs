@@ -19,7 +19,6 @@ namespace CharterResumeApp
         public LoginViewController(HomeScreenViewController view)
         {
             this.view = view;
-            
         }
 
         public override void ViewDidLoad()
